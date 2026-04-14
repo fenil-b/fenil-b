@@ -6,7 +6,11 @@
 
 ## Research interests
 
-**Multimodal LLMs · Agentic Reasoning · Post-training & Unlearning · Video Understanding · Generative AI**
+#### Multimodal LLMs  
+#### Agentic Reasoning  
+#### Post-training & Unlearning  
+#### Video Understanding  
+#### Generative AI
 
 ### Tech stack
 
@@ -33,18 +37,18 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=fenil-b&style=for-the-badge&color=0e75b6)
 
-![Fenil's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fenil-b&theme=radical)
+![Fenil's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fenil-b&theme=tokyonight)
 
-![Fenil's GitHub stats (alt)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fenil-b&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=21600)
+![Fenil's GitHub score](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fenil-b&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=21600)
 
 ---
 
 ### Connect
 
-- **Website:** [fenil-b.github.io](https://fenil-b.github.io/)
-- **Scholar:** [Google Scholar](https://scholar.google.com/citations?user=0dxHSiIAAAAJ)
-- **LinkedIn:** [fenil-bardoliya](https://www.linkedin.com/in/fenil-bardoliya/)
-- **X:** [fenil-bardoliya](https://x.com/fenil_bardoliya)
-- **Email:** [fenildbardoliya@gmail.com](mailto:fenildbardoliya@gmail.com)
+- 🌐 **Website:** [fenil-b.github.io](https://fenil-b.github.io/)
+- 🎓 **Scholar:** [Google Scholar](https://scholar.google.com/citations?user=0dxHSiIAAAAJ)
+- 💼 **LinkedIn:** [fenil-bardoliya](https://www.linkedin.com/in/fenil-bardoliya/)
+- 𝕏 **X:** [fenil-bardoliya](https://x.com/fenil_bardoliya)
+- ✉️ **Email:** [fenildbardoliya@gmail.com](mailto:fenildbardoliya@gmail.com)
 
 Open to collaborations!
