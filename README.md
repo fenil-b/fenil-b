@@ -1,6 +1,7 @@
 # Hi, I'm Fenil Bardoliya
 
-## **GenAI researcher** — vision–language models, agentic systems, and reliable foundation models.
+## **GenAI researcher** 
+Vision–Language Models, Agentic Systems, Reliable Foundation Models
 
 ---
 
@@ -39,7 +40,7 @@
 
 ![Fenil's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fenil-b&theme=tokyonight)
 
-![Fenil's GitHub score](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fenil-b&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=21600)
+![Fenil's GitHub stats and score](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fenil-b&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile&custom_title=GitHub%20Stats%20%26%20Score&cache_seconds=21600)
 
 ---
 
