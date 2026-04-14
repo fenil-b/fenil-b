@@ -37,7 +37,7 @@
 
 ### 📊 GitHub stats
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffenil-b%2Ffenil-b&count_bg=%230E75B6&title_bg=%231F2937&icon=github.svg&icon_color=%23FFFFFF&title=Profile+views&edge_flat=false)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=fenil-b.fenil-b&left_text=Profile%20views)
 
 ![Fenil's GitHub stats and score](https://github-readme-stats-sigma-five.vercel.app/api?username=fenil-b&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile&custom_title=GitHub%20Stats%20%26%20Score&card_width=600&cache_seconds=86400)
 
