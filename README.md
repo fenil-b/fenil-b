@@ -1,36 +1,41 @@
 # Hi, I'm Fenil Bardoliya
 
-**GenAI researcher** — vision–language models, agentic systems, and reliable foundation models.
+## **GenAI researcher** — vision–language models, agentic systems, and reliable foundation models.
 
 ---
 
-### Research interests
+## Research interests
 
-Multimodal LLMs · Agentic Reasoning · Post-training & Unlearning · Video Understanding · Generative AI
+**Multimodal LLMs · Agentic Reasoning · Post-training & Unlearning · Video Understanding · Generative AI**
 
 ### Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- **Basic (I’ll expand later):** multimodal VLM evaluation · agentic systems · post-training (LoRA/DPO/GRPO) · unlearning · video understanding · 3D (NeRF / Gaussian splatting) -->
+![Weights%20%26%20Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
 ---
 
 ### GitHub stats
 
-<!-- _This card pulls current public GitHub activity on each page load._ -->
+![Profile views](https://komarev.com/ghpvc/?username=fenil-b&style=for-the-badge&color=0e75b6)
 
-![Fenil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenil-b&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=21600)
+![Fenil's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fenil-b&theme=radical)
 
-<!-- _If the card doesn’t render (rate limits/outage), fallback:_   -->
-![Fenil's GitHub stats (fallback)](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fenil-b&theme=radical)
+![Fenil's GitHub stats (alt)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fenil-b&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=21600)
 
 ---
 
