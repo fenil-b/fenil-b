@@ -39,7 +39,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=fenil-b&style=for-the-badge&color=0e75b6)
 
-![Fenil's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fenil-b&theme=tokyonight)
+<!-- ![Fenil's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fenil-b&theme=tokyonight) -->
 
 ![Fenil's GitHub stats and score](https://github-readme-stats-sigma-five.vercel.app/api?username=fenil-b&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile&custom_title=GitHub%20Stats%20%26%20Score&card_width=600&cache_seconds=86400)
 
