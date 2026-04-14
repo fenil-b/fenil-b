@@ -1,19 +1,18 @@
-# Hi, I'm Fenil Bardoliya
-
-## **GenAI researcher** 
-Vision–Language Models, Agentic Systems, Reliable Foundation Models
+<h1 align="center">Hi, I'm Fenil Bardoliya 👋</h1>
+<h3 align="center">🤖 GenAI Researcher</h3>
+<p align="center">Vision–Language Models · Agentic Systems · Reliable Foundation Models</p>
 
 ---
 
-## Research interests
+## 🔬 Research interests
 
-#### Multimodal LLMs  
-#### Agentic Reasoning  
-#### Post-training & Unlearning  
-#### Video Understanding  
-#### Generative AI
+#### 🧠 Multimodal LLMs  
+#### 🧩 Agentic Reasoning  
+#### 🛠️ Post-training & Unlearning  
+#### 🎥 Video Understanding  
+#### ✨ Generative AI
 
-### Tech stack
+### 🛠️ Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -34,7 +33,7 @@ Vision–Language Models, Agentic Systems, Reliable Foundation Models
 
 ---
 
-### GitHub stats
+### 📊 GitHub stats
 
 ![Profile views](https://komarev.com/ghpvc/?username=fenil-b&style=for-the-badge&color=0e75b6)
 
@@ -44,7 +43,7 @@ Vision–Language Models, Agentic Systems, Reliable Foundation Models
 
 ---
 
-### Connect
+### 🤝 Connect
 
 - 🌐 **Website:** [fenil-b.github.io](https://fenil-b.github.io/)
 - 🎓 **Scholar:** [Google Scholar](https://scholar.google.com/citations?user=0dxHSiIAAAAJ)
@@ -52,4 +51,4 @@ Vision–Language Models, Agentic Systems, Reliable Foundation Models
 - 𝕏 **X:** [fenil-bardoliya](https://x.com/fenil_bardoliya)
 - ✉️ **Email:** [fenildbardoliya@gmail.com](mailto:fenildbardoliya@gmail.com)
 
-Open to collaborations!
+🚀 Open to collaborations!
