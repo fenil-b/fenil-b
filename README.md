@@ -10,19 +10,27 @@ Multimodal LLMs · Agentic Reasoning · Post-training & Unlearning · Video Unde
 
 ### Tech stack
 
-<!--PROFILE_TECH_STACK:BEGIN-->
-![Java](https://img.shields.io/static/v1?style=for-the-badge&label=Java&message=45.3%25&color=b07219) ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&label=Kotlin&message=36.3%25&color=A97BFF) ![Python](https://img.shields.io/static/v1?style=for-the-badge&label=Python&message=9.4%25&color=3572A5) ![HTML](https://img.shields.io/static/v1?style=for-the-badge&label=HTML&message=9.1%25&color=e34c26)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<!--PROFILE_TECH_STACK:END-->
+<!-- **Basic (I’ll expand later):** multimodal VLM evaluation · agentic systems · post-training (LoRA/DPO/GRPO) · unlearning · video understanding · 3D (NeRF / Gaussian splatting) -->
 
 ---
 
 ### GitHub stats
 
-_These cards pull current public GitHub activity and language mix on each page load._
+<!-- _This card pulls current public GitHub activity on each page load._ -->
 
-[![Fenil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenil-b&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/fenil-b)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fenil-b&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/fenil-b)
+![Fenil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenil-b&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=21600)
+
+<!-- _If the card doesn’t render (rate limits/outage), fallback:_   -->
+![Fenil's GitHub stats (fallback)](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fenil-b&theme=radical)
 
 ---
 
